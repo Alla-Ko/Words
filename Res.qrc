@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Res/about.png</file>
+        <file>Res/exit1.png</file>
+        <file>Res/heart.png</file>
+        <file>Res/ico.png</file>
+        <file>Res/musik.mp3</file>
+        <file>Res/play.png</file>
+        <file>Res/sound.png</file>
+        <file>Res/sound0.png</file>
+        <file>Res/level.png</file>
+        <file>Res/text.dat</file>
+    </qresource>
+</RCC>
